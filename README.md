@@ -1,6 +1,6 @@
 # UNIMAR
 
-Nome: Leonardo Fajoli Formigon / RA:1953434
+Nome: Leonardo Fajoli Formigon / 
 
 Curso: Análise e Desenvolvimento de Sistemas / 2 Termo
 
