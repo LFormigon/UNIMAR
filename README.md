@@ -1,6 +1,6 @@
 # UNIMAR
 
-Nome: Leonardo Fajoli Formigon / 
+Nome: Leonardo Fajoli Formigon / Aqls
 
 Curso: Análise e Desenvolvimento de Sistemas / 2 Termo
 
