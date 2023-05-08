@@ -1,10 +1,10 @@
 # UNIMAR
 
-Nome: Leonardo Fajoli Formigon / Aqls
+Nome: Leonardo Fajoli Formigon / 19y
 
-Curso: Análise e Desenvolvimento de Sistemas / 2 Termo
+Curso: Análise e Desenvolvimento de Sistemas / 3 Termo
 
-Att: Computador Programado
+Att: Activities In Class
 
 
 Matéria: SUP TEC ANALISE DES. SISTEMAS
