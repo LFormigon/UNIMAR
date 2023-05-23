@@ -1,0 +1,12 @@
+valor = int(input('Digite a tabuada desejada: '))
+
+print(f'{valor} X 1 = {valor*1}')
+print(f'{valor} X 1 = {valor*2}')
+print(f'{valor} X 1 = {valor*3}')
+print(f'{valor} X 1 = {valor*4}')
+print(f'{valor} X 1 = {valor*5}')
+print(f'{valor} X 1 = {valor*6}')
+print(f'{valor} X 1 = {valor*7}')
+print(f'{valor} X 1 = {valor*8}')
+print(f'{valor} X 1 = {valor*9}')
+print(f'{valor} X 1 = {valor*10}')
